@@ -4,7 +4,9 @@ This repository is a way for me to back up and, if needed, distribute my customi
 
 ## Launch options
 
-`-novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime -console`
+`-novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime -console -w 1920 -h 1080`
+
+DirectX Level: `-dxlevel 100` (remove after launching once!)
 
 ## Contents
 
@@ -12,12 +14,10 @@ This repository is a way for me to back up and, if needed, distribute my customi
 
 - `/cfg/`: Config files, includes class configs and other stuff like that
 
-- `/mastercomfig/`: My mastercomfig preset of choice with any customizations specific to mastercomfig
-
 - `/other/`: Various custom files such as hit/killsounds and viewmodel mods
 
 ## Credits
 
 - [sammyhud](https://github.com/sammybun/sammyhud)
 
-- [mastercomfig](https://mastercomfig.com)
+- [CFG.tf](https://cfg.tf)
