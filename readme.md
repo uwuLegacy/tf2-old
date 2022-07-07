@@ -2,6 +2,10 @@
 
 This repository is a way for me to back up and, if needed, distribute my customizations for TF2.
 
+## Launch options
+
+`-novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime -console`
+
 ## Contents
 
 - `/hud/`: My custom HUD. Currently based off of [sammyhud](https://github.com/sammybun/sammyhud) with a bunch of customizations.
