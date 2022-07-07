@@ -16,6 +16,14 @@ DirectX Level: `-dxlevel 100` (remove after launching once!)
 
 - `/other/`: Various custom files such as hit/killsounds and viewmodel mods
 
+## Mods included in `/other/`
+
+- Swipez's trickstab killsound
+
+- Gangster animations for Sniper's SMG
+
+- Reduced explosions mod
+
 ## Credits
 
 - [sammyhud](https://github.com/sammybun/sammyhud)
