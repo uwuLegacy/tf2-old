@@ -4,7 +4,7 @@ This repository is a way for me to back up and, if needed, distribute my customi
 
 ## Launch options
 
-`-novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime -console -w 1920 -h 1080`
+`-novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime -console`
 
 DirectX Level: `-dxlevel 100` (remove after launching once!)
 
