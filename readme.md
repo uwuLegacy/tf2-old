@@ -18,6 +18,8 @@ DirectX Level: `-dxlevel 100` (remove after launching once!)
 
 ## Mods included in `/other/`
 
+- [Ultimate Visual Fix Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack)
+
 - Swipez's trickstab killsound
 
 - Gangster animations for Sniper's SMG
